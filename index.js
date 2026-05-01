@@ -50,10 +50,90 @@ console.log(`Bro is online: ${online}   Bro is offline: ${offline}`);
 console.log(`This item is for sale: ${forSale}`);
 console.log(`Bro is a student: ${isStudent}`);*/
 
-let fullName = ("Gustavo Cordova");
+/*let fullName = ("Gustavo Cordova");
 let age = 25;
 let isStudent = true;
 
 document.getElementById("p1").textContent = `Your name is ${fullName}.`;
 document.getElementById("p2").textContent = `You are ${age} years old.`;
 document.getElementById("p3").textContent = `It is ${isStudent} that you are a student.`;
+*/
+
+// arithmetic operators//
+
+//let students = 31;
+
+//students = students + 1;
+//students = students -1;
+//students = students * 2;
+//students = students / 2;
+//students = students **2;
+//students = students % 2;
+//let extraStudents = students % 3;
+
+//students += 1;
+//students -= 1; //students = students - 1;
+//students *= 2; //students = students * 2;
+//students /= 2; //students = students / 2;
+//students **= 2;
+//students %= 2;
+//students++;
+//students--;
+
+
+
+//console.log(students);
+
+//let result = 1 + 2 *3 + 4 ** 2;
+//console.log(result);
+
+/*let username;
+    
+username = window.prompt("What is your name?");
+
+console.log(`Hello, ${username}! Welcome to my website!`);
+*/
+/*let username;
+document.getElementById("submitBtn").onclick = function() {
+    username = document.getElementById("myText").value;
+    console.log(`Hello, ${username}! Welcome to my website!`);}*/
+                 //Type conversion
+    /* let age = window.prompt("How old are you?");
+    age = Number(age);
+    age += 1;
+
+    console.log(age);*/
+
+    /*let x = "0";
+    let y = "0";
+    let z = "0";
+
+    x = Number(x);
+    y = String(y);
+    z = Boolean(z);
+
+    console.log(x, typeof x);
+    console.log(y, typeof y);
+    console.log(z, typeof z);   */
+
+                //const is a variable that cannot be changed
+
+    /*const pi = 3.14;
+    let radius;
+    let circumference;
+
+    //radius = window.prompt("Enter the radius of the circle:");
+    radius = Number(radius);
+
+    circumference = 2 * pi * radius;
+
+   document.getElementById("mySubmit").onclick = function() {
+    radius = document.getElementById("radius").value;
+    radius = Number(radius);
+    circumference = 2 * pi * radius;
+    console.log(`The circumference of the circle is ${circumference}cm.`);
+   }*/
+
+         //counter program
+
+         
