@@ -191,13 +191,13 @@ document.getElementById("submitBtn").onclick = function() {
 
                  // Random Number Generator
 
-        const min = 50;
+        /*const min = 50;
         const max = 100;
 
          let randomNum = Math.floor(Math.random() * (max - min) + min);// returns a random number between 50 (inclusive) and 100 (inclusive)
          
 
-         console.log(randomNum);
+         console.log(randomNum);*/
 
 
          
