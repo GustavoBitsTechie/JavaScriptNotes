@@ -134,6 +134,71 @@ document.getElementById("submitBtn").onclick = function() {
     console.log(`The circumference of the circle is ${circumference}cm.`);
    }*/
 
-         //counter program
+         //math object = built-in object that provides collection of properties and methods.
 
+        /* Math.PI;
+         console.log(Math.PI);
+         console.log(Math.E);*/
+
+         /*let x = 3.21;
+         let y = 2;
+         let z;
+
+         z = Math.round(x); // rounds to the nearest integer
+         console.log(z);
+
+         z = Math.floor(x); //rounds down
+         console.log(z);
+
+         z = Math.ceil(x); //rounds up
+         console.log(z);
+
+         z = Math.trunc(x); //removes the decimal part and returns the integer part
+         console.log(z);
+
+         z = Math.pow(x, y); //z = x ** y;
+         console.log(z);
+
+         z = Math.sqrt(x); // give you the square root of x
+         console.log(z);
+
+         z = Math.abs(y); // returns the absolute value of y negative to positive or positive to negative.
+         console.log(z);
+
+         z = Math.min(x, y); // returns the smallest value
+         console.log(z);
+
+         z = Math.max(x, y); // returns the largest value
+         console.log(z);
+
+         z = Math.random();  // returns a random number between 0 (inclusive) and 1 (exclusive)
+         console.log(z);
+
+         z = Math.sin(x); // returns the sine of x (x is in radians)
+         console.log(z);
+
+         z = Math.cos(x); // returns the cosine of x (x is in radians)
+         console.log(z);    
+
+         z = Math.tan(x); // returns the tangent of x (x is in radians)
+         console.log(z);
+
+         z = Math.log(x); // returns the natural logarithm of x
+         console.log(z);    
+
+         z = Math.exp(x); // returns e raised to the power of x
+         console.log(z);*/ 
+
+                 // Random Number Generator
+
+        const min = 50;
+        const max = 100;
+
+         let randomNum = Math.floor(Math.random() * (max - min) + min);// returns a random number between 50 (inclusive) and 100 (inclusive)
+         
+
+         console.log(randomNum);
+
+
+         
          
