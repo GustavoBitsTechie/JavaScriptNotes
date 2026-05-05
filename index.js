@@ -199,6 +199,73 @@ document.getElementById("submitBtn").onclick = function() {
 
          console.log(randomNum);*/
 
+         // If statements
+         
+        /* let age = 13;
 
-         
-         
+         if(age >= 18) {
+            console.log("You are an adult.");
+         }
+         else  {
+            console.log("You must be at least 18 years old to access this website.");
+            };*/
+
+         /*let time = 19;
+
+         if (time < 12) {
+            console.log("Good morning!");
+            
+         }
+         else if (time < 18) {
+            console.log("Good afternoon!");
+         }
+         else {
+            console.log("Good evening!");
+         }*/
+
+           /* let students = true;
+
+            if(students) {
+                console.log("Welcome, students!");
+            }
+            else {
+                console.log("Sorry, this website is only for students.");
+            }*/
+            
+            /*let username = "Gustavo";
+
+            if (username === "Gustavo") {
+                console.log("Welcome, Gustavo!");
+            }
+            else {
+                console.log("Sorry, you are not Gustavo.");
+            }*/
+
+            /*let age = 18;
+            let hasLicense = false;
+
+            if (age >= 16 && age < 18) {
+                console.log("You are old enough to drive with a learner's permit.");
+            }
+            else if (age >= 18) {
+                console.log("You are old enough to drive by yourself. Woohoo! Congrats!");
+            }
+            else {
+                console.log("You are not old enough to drive.");
+            }
+            if (hasLicense) {
+                console.log("You have a driver's license. Woohoo!");
+            }
+            else {
+                console.log("You do not have a driver's license.");
+            }*/
+
+               /* let age = 18;
+
+                if (age >= 18) {
+                    console.log("You are old enough to enter this website.");
+
+                }
+                else {
+                    console.log("Sorry, you are not old enough to enter this website.");
+                }*/
