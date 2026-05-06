@@ -269,3 +269,7 @@ document.getElementById("submitBtn").onclick = function() {
                 else {
                     console.log("Sorry, you are not old enough to enter this website.");
                 }*/
+
+
+                  //Checked Property
+                  
